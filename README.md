@@ -1,5 +1,10 @@
 # transborder-freight-analysis
 Data analysis project using CRISP-DM for BTS freight data
+### Tools Used
+- Google Colab
+- Python (Pandas, Matplotlib, Seaborn)
+- GitHub
+
 ## CRISP-DM Phase 1: Business Understanding
 
 ### Business Problem
